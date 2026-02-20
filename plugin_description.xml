@@ -1,0 +1,8 @@
+<library path="rviz2_rosout_panel">
+  <class
+    name="rviz2_rosout_panel/RosoutPanel"
+    type="rviz2_rosout_panel::RosoutPanel"
+    base_class_type="rviz_common::Panel">
+    <description>Rosout viewer panel</description>
+  </class>
+</library>
