@@ -33,7 +33,7 @@ This plugin provides an interactive panel for RViz2 that displays log messages f
 1. Clone this repository into your ROS2 workspace:
 ```bash
 cd ~/ros2_ws/src
-git clone <repository-url> rviz2_plugin_rosout
+git clone https://github.com/karthiknambiar29/rviz2_rosout_panel.git rviz2_plugin_rosout
 ```
 
 2. Build the package:
